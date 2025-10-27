@@ -3,7 +3,6 @@ package protocol;
 import java.io.Serializable;
 
 public class Response implements Serializable {
-    // 添加 serialVersionUID 确保序列化兼容性
     private static final long serialVersionUID = 1L;
     
     private int status;
