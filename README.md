@@ -10,4 +10,4 @@
     [发行版releases](https://github.com/oooohhhhhhhhhh/Protocol/releases)
 
 * 自行构建
-    双击build.bat后再双击package.bat即可
+    双击build.bat，然后在.\bin里查看
